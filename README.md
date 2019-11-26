@@ -1,6 +1,15 @@
 # bbs_app
 
-> My super Nuxt.js project
+利用技術
+フロントエンド:JavaScript(Nuxt.js),Buefy
+バックエンド:Firebase
+実装内容（以下４つ）
+1. ログイン機能 (email + pass)
+2. 閲覧・投稿機能
+3. スレッド機能 (スレッドにレスをつけていくスタイル)
+4. カテゴリ設定 (スレッドごと / 1つのスレッドに複数付与可能)
+
+検索機能を追加する際はAlgoriaを用いて実装を考える
 
 ## Build Setup
 
